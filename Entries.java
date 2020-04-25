@@ -1,12 +1,13 @@
 
-/*
-This class instantiates entry objects with four private instance variables
-all methods are getter methods
-
-
-
-
-*/
+/**
+ * 
+ * 
+ * This class instantiates entry objects with four private instance variables
+ * all methods are getter methods
+ *
+ * @author Peter
+ * @version 04/24/2020
+ */
 
 public class Entries{
 
