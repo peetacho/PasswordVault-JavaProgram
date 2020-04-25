@@ -1,8 +1,13 @@
-/*
 
-This class creates 
-
-*/
+/**
+ *
+ * Java program that can save username and passwords. The program is password protected. 
+ * The resulting .txt file that is generated is encrypted.
+ *
+ *
+ * @author Peter
+ * @version 04/24/2020
+ */
 
 import java.io.FileWriter;
 import java.io.PrintWriter;
